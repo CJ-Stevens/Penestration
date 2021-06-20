@@ -5,3 +5,28 @@
 [Router' ACL- Access Control List](https://www.youtube.com/watch?v=f-hialQ7ar8)<br>
 [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/?fbclid=IwAR1CDZT9zGPV4rqTYdIAEJFs89amKdppMOM0f409T45B21AqP2mCKBD2lWs)<br>
 [เรียน Docker ภาษาไทย](https://medium.com/@qqbybdrsun/docker-101-1b87bb995558)<br>
+### ของครู Zak
+[ของครุู Zak SocialEngineerOrg](https://www.youtube.com/c/SocialEngineerOrg/videos)<br>
+[www.w3schools.in](https://www.w3schools.in/ethical-hacking/information-gathering-techniques/)<br>
+[Infosec](https://resources.infosecinstitute.com/topic/what-is-enumeration/#gref)<br>
+[w3schools.com](https://www.w3schools.com/sql/sql_injection.asp)<br>
+[owasp](https://owasp.org/www-community/attacks/xss/)<br>
+[Bobby Tables: คำแนะนำในการป้องกันการฉีด SQL](https://bobby-tables.com/python)<br>
+[[1/6] ระดับ 1: สวัสดี โลกของ XSS](https://xss-game.appspot.com/level1)<br>
+[SQLite](https://www.sqlite.org/fileformat.html)<br>
+[Botnet (W3school)](https://www.w3schools.in/ethical-hacking/botnet/)<br>
+[DoS Attacks and Its Prevention](https://www.w3schools.in/ethical-hacking/dos-attacks-and-its-prevention/)<br>
+[Low Orbit Ion Cannon](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon)<br>
+[การทดสอบการเจาะ - บทนำ](https://www.tutorialspoint.com/penetration_testing/penetration_testing_introduction.htm)<br>
+[What is a Buffer Overflow Attack](https://www.imperva.com/learn/application-security/buffer-overflow/)<br>
+[Metasploitable Linux](https://docs.rapid7.com/metasploit/metasploitable-2/)<br>
+[การสร้างไฟล์ CSV สำหรับเป้าหมาย](https://docs.rapid7.com/metasploit/managing-target-lists/)<br>
+[Amazon CloudWatch Tutorial | AWS Certification | Cloud Monitoring Tools | AWS Tutorial | Edureka](https://www.youtube.com/watch?v=__knpcBRLHg)<br>
+[Stackdriver: monitor, diagnose, and fix (Google Cloud Next '17)](https://www.youtube.com/watch?v=U6weNkNmC7s)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
