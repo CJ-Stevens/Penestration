@@ -11,6 +11,7 @@
 [Channel = Chris Greer](https://www.youtube.com/c/ChrisGreer/videos)<br>
 [Channel = Laura Chappell](https://www.youtube.com/c/LauraChappellLab/videos)<br>
 [Understand Proxy/Firewall/NAT/PAT Traffic Flows [WCT01: Network Analysis Overview Course]](https://www.youtube.com/watch?v=ZUIKfNX8tA4)<br>
+[Hackers Academy](https://www.youtube.com/channel/UCadD7R8VxdKroR1jg8Mm31w)<br>
 ### ของคนไทย
 [channel ของคนไทยดีมาก Panya Wattana](https://www.youtube.com/user/snpanyawat/videos)<br>
 [Channel = KenCafe](https://www.youtube.com/channel/UCw7WT3Dsc9rk2arKRrQUxCw/videos)<br>
@@ -20,6 +21,7 @@
 [TechTalk Thai](https://www.youtube.com/c/TechtalkThaiChannel/videos)<br>
 ### ของครู Zak
 [Kali Linux 2021 - Before You Install Kali!](https://www.youtube.com/watch?v=5f6ReEjPtXI)<br>
+[How To: Install Kali on VirtualBox](https://www.youtube.com/watch?v=hFd9KCjPyjA)<br>
 [Security Testing](https://www.educba.com/security-testing/?fbclid=IwAR3W8_D2UgENHw1qaZVPT1wgDA7l7vIR9N7wGp1SasBRBhOzyxanrfFvD8I)<br>
 [ของครุู Zak SocialEngineerOrg](https://www.youtube.com/c/SocialEngineerOrg/videos)<br>
 [www.w3schools.in](https://www.w3schools.in/ethical-hacking/information-gathering-techniques/)<br>
