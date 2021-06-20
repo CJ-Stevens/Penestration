@@ -6,6 +6,7 @@
 [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/?fbclid=IwAR1CDZT9zGPV4rqTYdIAEJFs89amKdppMOM0f409T45B21AqP2mCKBD2lWs)<br>
 [เรียน Docker ภาษาไทย](https://medium.com/@qqbybdrsun/docker-101-1b87bb995558)<br>
 ### ของครู Zak
+[Security Testing](https://www.educba.com/security-testing/?fbclid=IwAR3W8_D2UgENHw1qaZVPT1wgDA7l7vIR9N7wGp1SasBRBhOzyxanrfFvD8I)<br>
 [ของครุู Zak SocialEngineerOrg](https://www.youtube.com/c/SocialEngineerOrg/videos)<br>
 [www.w3schools.in](https://www.w3schools.in/ethical-hacking/information-gathering-techniques/)<br>
 [Infosec](https://resources.infosecinstitute.com/topic/what-is-enumeration/#gref)<br>
@@ -13,6 +14,7 @@
 [owasp](https://owasp.org/www-community/attacks/xss/)<br>
 [Bobby Tables: คำแนะนำในการป้องกันการฉีด SQL](https://bobby-tables.com/python)<br>
 [[1/6] ระดับ 1: สวัสดี โลกของ XSS](https://xss-game.appspot.com/level1)<br>
+[การกรองข้อมูลอย่างง่ายผ่าน XSS](https://www.trustedsec.com/blog/simple-data-exfiltration-through-xss/?utm_campaign=Blog%20Posts&utm_content=166100905&utm_medium=social&utm_source=twitter&hss_channel=tw-403811306&fbclid=IwAR3Mx7LORx5EEx5GYdW3qvNrz3ZDMC8d6C5xyVjUGxkxthrCdfH1rUBpPzY)<br>
 [SQLite](https://www.sqlite.org/fileformat.html)<br>
 [Botnet (W3school)](https://www.w3schools.in/ethical-hacking/botnet/)<br>
 [DoS Attacks and Its Prevention](https://www.w3schools.in/ethical-hacking/dos-attacks-and-its-prevention/)<br>
