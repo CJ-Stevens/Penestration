@@ -6,7 +6,20 @@
 [Router' ACL- Access Control List](https://www.youtube.com/watch?v=f-hialQ7ar8)<br>
 [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/?fbclid=IwAR1CDZT9zGPV4rqTYdIAEJFs89amKdppMOM0f409T45B21AqP2mCKBD2lWs)<br>
 [เรียน Docker ภาษาไทย](https://medium.com/@qqbybdrsun/docker-101-1b87bb995558)<br>
+
+### ทำไมเราต้องเรียน Wireshark
+[Channel = Chris Greer](https://www.youtube.com/c/ChrisGreer/videos)<br>
+[Channel = Laura Chappell](https://www.youtube.com/c/LauraChappellLab/videos)<br>
+[Understand Proxy/Firewall/NAT/PAT Traffic Flows [WCT01: Network Analysis Overview Course]](https://www.youtube.com/watch?v=ZUIKfNX8tA4)<br>
+### ของคนไทย
+[channel ของคนไทยดีมาก Panya Wattana](https://www.youtube.com/user/snpanyawat/videos)<br>
+[Channel = KenCafe](https://www.youtube.com/channel/UCw7WT3Dsc9rk2arKRrQUxCw/videos)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[TechTalk Thai](https://www.youtube.com/c/TechtalkThaiChannel/videos)<br>
 ### ของครู Zak
+[Kali Linux 2021 - Before You Install Kali!](https://www.youtube.com/watch?v=5f6ReEjPtXI)<br>
 [Security Testing](https://www.educba.com/security-testing/?fbclid=IwAR3W8_D2UgENHw1qaZVPT1wgDA7l7vIR9N7wGp1SasBRBhOzyxanrfFvD8I)<br>
 [ของครุู Zak SocialEngineerOrg](https://www.youtube.com/c/SocialEngineerOrg/videos)<br>
 [www.w3schools.in](https://www.w3schools.in/ethical-hacking/information-gathering-techniques/)<br>
