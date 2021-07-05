@@ -1,6 +1,7 @@
 # Penestration
 :octocat:เรียน Hack<br>
 [channel ของคนไทยดีมาก Panya Wattana](https://www.youtube.com/user/snpanyawat/videos)<br>
+[Hacking a Security Career - Deviant Ollam](https://www.youtube.com/watch?v=jZFuCYyQB6c)<br>
 [Build Your Own SSH Honeypot in Minutes](https://www.youtube.com/watch?v=WomC6LRAoyo)<br>
 [Honeynet and DMZ](https://www.youtube.com/watch?v=FihkG72z7MQ)<br>
 [Router' ACL- Access Control List](https://www.youtube.com/watch?v=f-hialQ7ar8)<br>
@@ -41,6 +42,9 @@
 [การสร้างไฟล์ CSV สำหรับเป้าหมาย](https://docs.rapid7.com/metasploit/managing-target-lists/)<br>
 [Amazon CloudWatch Tutorial | AWS Certification | Cloud Monitoring Tools | AWS Tutorial | Edureka](https://www.youtube.com/watch?v=__knpcBRLHg)<br>
 [Stackdriver: monitor, diagnose, and fix (Google Cloud Next '17)](https://www.youtube.com/watch?v=U6weNkNmC7s)<br>
+
+```Video เอาใว้ฟัง```<br>
+[Hacking a Security Career - Deviant Ollam](https://www.youtube.com/watch?v=jZFuCYyQB6c)<br>
 []()<br>
 []()<br>
 []()<br>
