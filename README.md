@@ -45,7 +45,7 @@
 
 ```Video เอาใว้ฟัง```<br>
 [Hacking a Security Career - Deviant Ollam](https://www.youtube.com/watch?v=jZFuCYyQB6c)<br>
-[]()<br>
+[What is the FASTEST Computer Language? 45 Languages Tested! (HD)](https://www.youtube.com/watch?v=tQtFdsEcK_s&list=RDCMUCNzszbnvQeFzObW0ghk0Ckw&start_radio=1&rv=tQtFdsEcK_s&t=119)<br>
 []()<br>
 []()<br>
 []()<br>
