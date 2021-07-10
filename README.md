@@ -16,7 +16,7 @@
 ### ของคนไทย
 [channel ของคนไทยดีมาก Panya Wattana](https://www.youtube.com/user/snpanyawat/videos)<br>
 [Channel = KenCafe](https://www.youtube.com/channel/UCw7WT3Dsc9rk2arKRrQUxCw/videos)<br>
-[]()<br>
+[เรียนทักษะ Hacker เพื่อให้เข้าใจว่า Hacker คืออะไร ! (ภาคต่อ)](https://www.youtube.com/watch?v=--Wjk_aTIlU)<br>
 []()<br>
 []()<br>
 [TechTalk Thai](https://www.youtube.com/c/TechtalkThaiChannel/videos)<br>
